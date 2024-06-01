@@ -1,1 +1,1 @@
-Made a Jeopardy game for my wifes youth group at church. It lets her use a "backend" interface to build her game board. She can set title, categories, and questions. Also allows her to show the answers and add points to specific groups.
+Made a Jeopardy game for our group project in SDEV265.
