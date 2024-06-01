@@ -10,8 +10,8 @@ $login_error = $_SESSION["login_error"] ?? null;
 <!DOCTYPE html>
 <html>
 <head>
-<!-- <link rel="stylesheet" href="../css/style.css"> -->
-<link rel="stylesheet" href="../Jeopardy/css/style.css">
+<link rel="stylesheet" href="../SDEV265-Project/css/style.css">
+<!-- <link rel="stylesheet" href="../SDEV265-Project/css/style.css"> -->
 <head><meta charset="UTF-8"></head>
 <head>
 </head>

@@ -17,8 +17,7 @@ require_login($logged_in);
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Jeopardy</title>
-  <!-- <link rel="stylesheet" href="../css/style.css"> -->
-  <link rel="stylesheet" href="../Jeopardy/css/style.css">
+  <link rel="stylesheet" href="../SDEV265-Project/css/style.css">
 </head>
 
 <body>
@@ -732,7 +731,6 @@ require_login($logged_in);
   </div>
   </div>
   </div>
-  <!--   <script src="../javascript/script.js"></script>-->
-  <script src="../Jeopardy/javascript/script.js"></script>
+    <script src="../SDEV265-Project/javascript/script.js"></script>
 </body>
 </html>
